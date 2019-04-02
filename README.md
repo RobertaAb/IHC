@@ -1,5 +1,6 @@
 # IHC
 Trabalho IHC- Giuliano
+https://www.tutorialspoint.com/bootstrap/bootstrap_labels.htm
 
 CRIAÇÃO DE JOGOS EDUCACIONAIS COM INTERAÇÃO VIA MACHINE LEARNING 
 
@@ -7,7 +8,6 @@ Roberta Cristina de Abreu, Giuliano Araujo Bertoti
 Fatec – Faculdade de Tecnologia Prof. Jessen Vidal
 robertaabreu77@gmail.com, giuliano.bertoti@fatec.sp.gov.br
  
-
  
 1.	Introdução
 O uso da TIC – Tecnologia da Informação e Comunicação é mais que ensinar o uso dessas ferramentas e sim um investimento amplo nas competências do indivíduo no ambiente escolar.
